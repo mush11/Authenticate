@@ -22,6 +22,11 @@ namespace BasicAuthentication.Controllers
             return View();
         }
 
+        public IActionResult Semi()
+        {
+            return View();
+        }
+
         public IActionResult Authenticate()
         {
             var rabbiClaims = new List<Claim>()
