@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicAuthentication", "BasicAuthentication\BasicAuthentication.csproj", "{3BDACED4-1DC4-4B54-BB77-B288A2ED1644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAuthentication", "IdentityAuthentication\IdentityAuthentication.csproj", "{A9CF125B-5EDC-40D6-A498-F5DA424C97CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityAuthentication", "IdentityAuthentication\IdentityAuthentication.csproj", "{A9CF125B-5EDC-40D6-A498-F5DA424C97CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
